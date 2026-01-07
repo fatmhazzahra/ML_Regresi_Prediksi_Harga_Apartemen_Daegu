@@ -24,7 +24,7 @@ Metodologi *Data Science* yang digunakan dalam proyek untuk menjawab permasalaha
    * Dataset di split menjadi data train dan test. Variabel kategorikal dikodekan, fitur numerik dinormalisasi atau diskalakan jika diperlukan.
 
 4. Model Development
-    * Membangun dan membandingkan beberapa model regresi, seperti Linear Regression sebagai baseline serta model yang lebih kompleks seperti Random Forest Regression atau Gradient Boosting Regression untuk menangkap hubungan non-linear.
+    * Membangun dan membandingkan beberapa model regresi, seperti `Linear Regression`, `Ridge Regression`, `Lasso Regression` serta model yang lebih kompleks seperti `Gradient Boosting Regression` atau `XGB Regression` sebagai baseline model.
 
 5. Model Training and Validation
     * Membagi data menjadi data latih dan data uji atau menggunakan cross-validation untuk memastikan model dapat melakukan generalisasi dengan baik.
