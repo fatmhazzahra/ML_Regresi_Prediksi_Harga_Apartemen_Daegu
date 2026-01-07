@@ -40,7 +40,7 @@ Pemangku kebijakan yang berpengaruh terhadap hasil dari prediksi apartemen diant
 * Investor/Pemilik Unit Apartemen
 * Pembeli Apartemen
 * Marketing Team.
-* 
+
 ## Metrics
 Karena menggunakan model regresi, maka metrik evaluasi yang digunakan adalah:
 1. Mean Absolute Error (MAE): Mengukur rata-rata selisih absolut antara harga prediksi dan harga aktual, sehingga mudah diinterpretasikan dalam satuan harga.
