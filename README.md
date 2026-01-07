@@ -56,15 +56,15 @@ Karena menggunakan model regresi, maka metrik evaluasi yang digunakan adalah:
 5. Value : Meminimalisasi kekeliruan penetapan harga saat ingin menjual apartemen bagi pemilik unit. Adapun untuk pembeli apartemen, pembeli dapat mengetahui pasaran harga apartemen sebelum membeli suatu unit apartemen. Tim marketing dapat menyarankan unit dengan tepat sesuai kebutuhan dan budget yang dimiliki customer.
 
 ## Modul yang dibutuhkan untuk menjalankan program:
-category_encoders >= 2.9.0
-matplotlib >= 3.10.0
-pandas >= 2.2.2
-numpy >= 2.0.2
-scikit-learn >= 1.6.1
-seaborn >= 0.13.2
-scipy => 1.16.3
-sklearn-pandas >= 2.2.0
-xgboost >= 3.1.2
+* category_encoders >= 2.9.0
+* matplotlib >= 3.10.0
+* pandas >= 2.2.2
+* numpy >= 2.0.2
+* scikit-learn >= 1.6.1
+* seaborn >= 0.13.2
+* scipy => 1.16.3
+* sklearn-pandas >= 2.2.0
+* xgboost >= 3.1.2
 
 Author : **Fatimah Azzahra, Gabriella Davintia, Tengku Arika Hazera**
 
